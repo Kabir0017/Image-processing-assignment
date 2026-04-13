@@ -1,5 +1,5 @@
-# Name: Niti Dagar
-# Roll No: 2301010443
+# Name: Kabir Bidhuri
+# Roll No: 2301010461
 # Course: BTech CSE CORE
 # Unit 4: Edge detection, object representation, feature extraction
 # Assignment Title: Traffic Monitoring with Edge Detection and ORB
