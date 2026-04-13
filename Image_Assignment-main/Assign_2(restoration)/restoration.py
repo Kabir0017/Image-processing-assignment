@@ -1,5 +1,5 @@
-# Name: Niti Dagar
-# Roll No: 2301010443
+# Name: Kabir Bidhuri
+# Roll No: 2301010461
 # Course: BTech CSE CORE
 # Unit 2: Noise modeling, filtering, image enhancement
 # Assignment Title: Image Restoration Using Spatial Filters
