@@ -1,5 +1,5 @@
-﻿# Name: Niti Dagar
-# Roll No: 2301010443
+﻿# Name: Kabir Bidhuri
+# Roll No: 2301010461
 # Course Name: BTech CSE CORE
 # Assignment Title: Intelligent Image Processing Capstone
 # Date: 2026-04-09
