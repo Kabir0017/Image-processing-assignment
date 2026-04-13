@@ -1,5 +1,5 @@
-# Name: Niti Dagar
-# Roll No: 2301010443
+# Name: Kabir Bidhuri
+# Roll No: 2301010461
 # Course: BTech CSE CORE
 # Unit 1: Image acquisition, grayscale conversion, sampling awareness
 # Assignment Title: Document Scanner Image Processing
